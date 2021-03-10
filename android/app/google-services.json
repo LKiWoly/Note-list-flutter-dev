@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703333959900",
+    "project_id": "notes-list-dev",
+    "storage_bucket": "notes-list-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703333959900:android:b8b95998af947c86b14c19",
+        "android_client_info": {
+          "package_name": "com.krudenko.noteslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703333959900-2ook8r53ptd0h5sa53v25ivq35k9deiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzA6-DPbIfuPDFQJOhrIaZciPRyneYwKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703333959900-2ook8r53ptd0h5sa53v25ivq35k9deiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
